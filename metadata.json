@@ -1,0 +1,7 @@
+{
+  "name": "Midian Pharmacy",
+  "description": "Premium pharmaceutical care at Mufakose OK Shopping Centre. Healing Hands, Pure Medicine.",
+  "requestFramePermissions": [],
+  "prompt": "Create a futuristic pharmacy website with AI chat support.",
+  "majorCapabilities": ["AI Chatbot", "WhatsApp Integration", "Medication Gallery"]
+}
